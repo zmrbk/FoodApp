@@ -1,0 +1,1 @@
+Это Food App (сайт диета) сайт визитка. Без адаптива. Для запуска сервера нужно установить Mamp. Использованы: HTML, CSS, JS, db.json, webpack. Команды для запуска: 1) npx webpack, 2) npx json-server db.json, 3) запустить mamp.
